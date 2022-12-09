@@ -1,0 +1,2 @@
+# Ignore the playwright test result recordings:
+test-results/

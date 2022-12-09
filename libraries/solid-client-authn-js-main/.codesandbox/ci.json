@@ -1,0 +1,7 @@
+{
+  "installCommand": "install-sandbox",
+  "buildCommand": "build-sandbox",
+  "sandboxes": ["/.codesandbox/sandbox"],
+  "packages": ["packages/*"],
+  "node": "14"
+}
