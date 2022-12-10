@@ -4,11 +4,19 @@ A library of solid libraries and both past RWW &amp; Solid Apps as of Early Dece
 This document will be updated substantially.  
 
 # Purpose
-A project, that i first knew as [rww](https://www.w3.org/community/rww/), but also known earlier as [Cross Cloud](https://web.archive.org/web/*/http://crosscloud.org/) as well as [SoLiD](https://web.archive.org/web/20160826052926/https://solid.mit.edu/) which is now known as solid - has had alot of work done by various people making projects that have sought to provide meaningful contributions and/or creations of 'useful apps', that now, often, neither work nor are well-known.  
+A project, that i first knew as [rww](https://www.w3.org/community/rww/), but also known earlier as [Cross Cloud](https://web.archive.org/web/*/http://crosscloud.org/) as well as [SoLiD](https://web.archive.org/web/20160826052926/https://solid.mit.edu/) (although, it appears that the concept was first termed 'dataspaces' - see google folder link related resources, per below) which is now known as solid - has had alot of work done by various people making projects that have sought to provide meaningful contributions and/or creations of 'useful apps', that now, often, neither work nor are well-known.  
 
 This repo has been set-up in an effort to see what might be updated (refactored); alongside support for delivering useful outcomes, as many have hoped for sometime.
 
 Some old RWW Documents & a video about Cimba, which was one of the very first functional RWW Apps are located in this [Google Folder](https://drive.google.com/drive/folders/1lpeoEFowRcq3VTAp5LH6cFN251O9g9iE) 
+
+# Tim Berners-lee demonstrating Solid at DWeb Summit 2018
+
+[![Tim Berners-lee demonstrating Solid at DWeb Summit 2018](https://img.youtube.com/vi/gZB6d-4klmU/default.jpg)](https://youtu.be/gZB6d-4klmU)
+
+# Historical Timeline Presentation: Leading-up to present-day works on 'solid'.
+
+See [Timeline Presentation](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WXgSplqAB62oMSdwqli_1G3k37c0y6fZkZJLzc5Www8&font=Default&lang=en&hash_bookmark=true&initial_zoom=4&start_at_slide=8&height=800#event-tim-berners-lee-the-future-of-the-web-www94) of selected historical notes from the beginnings of apple, NeXT &amp; the start of the World Wide Web, through to present day works in progress (inc. solid).
 
 # Apps
 Apps have been downloaded from various sources (permissive licenses) and information will be updated about this soon.
