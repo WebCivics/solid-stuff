@@ -1,7 +1,14 @@
 # solid-stuff
-A library of solid libraries and both past RWW &amp; Solid Apps.
+A library of solid libraries and both past RWW &amp; Solid Apps as of Early December 2022.  
 
 This document will be updated substantially.  
+
+# Purpose
+A project, that i first knew as [rww](https://www.w3.org/community/rww/), but also known earlier as [Cross Cloud](https://web.archive.org/web/*/http://crosscloud.org/) as well as [SoLiD](https://web.archive.org/web/20160826052926/https://solid.mit.edu/) which is now known as solid - has had alot of work done by various people making projects that have sought to provide meaningful contributions and/or creations of 'useful apps', that now, often, neither work nor are well-known.  
+
+This repo has been set-up in an effort to see what might be updated (refactored); alongside support for delivering useful outcomes, as many have hoped for sometime.
+
+Some old RWW Documents & a video about Cimba, which was one of the very first functional RWW Apps are located in this [Google Folder](https://drive.google.com/drive/folders/1lpeoEFowRcq3VTAp5LH6cFN251O9g9iE) 
 
 # Apps
 Apps have been downloaded from various sources (permissive licenses) and information will be updated about this soon.
@@ -28,6 +35,10 @@ Below is a list of existing 'solid servers' per the list from [SolidServers.org 
 | 10.| Disfluid               | (coming soon!) |  [C](https://labo.planete-kraus.eu/webid-oidc.git)                                                        |     |      |     |       |       |       |
 
 
+#Licenses
+License information on each project is provided in the relevant project folder. Improvements for better communicating the history of works by different people, leading to different projects collected into this repo, is WIP (work in progress). 
 
-# Future Licensing for related work - human rights
-A framework built around human rights instruments and other .wellknown values frameworks are to be developed to address needs for peacefulness of work/life activities.
+# Future Licensing for related work - Human Rights
+A framework built around human rights instruments and other .wellknown values frameworks are to be developed to address needs for peacefulness of work/life activities.  Work on [Webizing](https://www.w3.org/community/webize/) [Values Frameworks](https://docs.google.com/spreadsheets/d/1z1mIpEXd456-zfS4mVZppP8Oc24Yv0x-LMFNE4Fk31I/edit#gid=1696228443) into [Ontologies](https://github.com/WebCivics/ontologies) is part of the broader work in progress. 
+
+These works are intended to address underlying problems that have been destructive in past, and seek to be addressed as part of the broader-scope-of-works as a priority. 
