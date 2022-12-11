@@ -43,7 +43,7 @@ Below is a list of existing 'solid servers' per the list from [SolidServers.org 
 | 10.| Disfluid               | (coming soon!) |  [C](https://labo.planete-kraus.eu/webid-oidc.git)                                                        |     |      |     |       |       |       |
 
 
-#Licenses
+# Licenses
 License information on each project is provided in the relevant project folder. Improvements for better communicating the history of works by different people, leading to different projects collected into this repo, is WIP (work in progress). 
 
 # Future Licensing for related work - Human Rights
