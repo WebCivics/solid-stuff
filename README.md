@@ -47,9 +47,11 @@ Below is a list of existing 'solid servers' per the list from [SolidServers.org 
 
 
 #Licenses
-License information on each project is provided in the relevant project folder. Improvements for better communicating the history of works by different people, leading to different projects collected into this repo, is WIP (work in progress). 
+License information on each project is provided in the relevant project folder. Improvements for better communicating the history of works by different people, leading to different projects collected into this repo, is WIP (work in progress). The license for each app provided in a folder, continues to apply to that app.  
 
-# Future Licensing for related work - Human Rights
+(for the most part, i haven't changed anything; i just collected things and put them together in the hope that it would make it easier to describe stuff to others.)
+
+# Future Licensing for Webizen related work - Human Rights
 A framework built around human rights instruments and other .wellknown values frameworks are to be developed to address needs for peacefulness of work/life activities.  Work on [Webizing](https://www.w3.org/community/webize/) [Values Frameworks](https://docs.google.com/spreadsheets/d/1z1mIpEXd456-zfS4mVZppP8Oc24Yv0x-LMFNE4Fk31I/edit#gid=1696228443) into [Ontologies](https://github.com/WebCivics/ontologies) is part of the broader work in progress. 
 
 These works are intended to address underlying problems that have been destructive in past, and seek to be addressed as part of the broader-scope-of-works as a priority. 
